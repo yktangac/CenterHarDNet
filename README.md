@@ -14,6 +14,12 @@ https://arxiv.org/abs/1904.07850
 https://arxiv.org/abs/1909.00948
 
 
+**To use or play around with this repo, please see these following guidlines**
+
+[installation guidline](https://github.com/yktangac/CenterHarDNet/blob/main/installation/intallation.md)
+
+[data path setup](https://github.com/yktangac/CenterHarDNet/blob/main/installation/DATASET.md)
+
 **Visualization: HeapMap /2D object detection / 3D object detection / BirdView graph**
 
 
