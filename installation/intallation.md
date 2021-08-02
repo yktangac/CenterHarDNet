@@ -6,6 +6,7 @@ Cuda: 10.2
 pytorch: 1.2.0 (we can't use the original pytorch version 0.4.0)
 conda envrionment(recommended)
 ```
+
 # Original. (Follow the original repo):
 There are many issues with the original repo. https://github.com/xingyizhou/CenterNet/blob/master/readme/INSTALL.md#installation
 
