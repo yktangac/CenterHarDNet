@@ -8,6 +8,8 @@ python main.py ddd --exp_id 3dop --dataset kitti --kitti_split 3dop --batch_size
 
 
 To test it
+we provide raw data video to test it. please down the video with the following link.
+https://drive.google.com/drive/folders/1GAfegX0IiscuW5uVByVWRnRVHHg64utt?usp=sharing
 ```bash
 cd ./src
 python test.py ddd --exp_id 3dop --dataset kitti --kitti_split 3dop --load_model /$PORJECT_ROOT/exp/ddd/3dop/model_120.pth --arch hardnet_68
