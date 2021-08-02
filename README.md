@@ -20,6 +20,9 @@ https://arxiv.org/abs/1909.00948
 
 [data path setup](https://github.com/yktangac/CenterHarDNet/blob/main/installation/DATASET.md)
 
+[Traing and Testing guidline](https://github.com/yktangac/CenterHarDNet/blob/main/installation/traing-and-testing.md)
+
+
 **Visualization: HeapMap /2D object detection / 3D object detection / BirdView graph**
 
 
