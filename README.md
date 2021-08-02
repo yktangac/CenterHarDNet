@@ -23,6 +23,10 @@ https://arxiv.org/abs/1909.00948
 [Traing and Testing guidline](https://github.com/yktangac/CenterHarDNet/blob/main/installation/traing-and-testing.md)
 
 
+# Notice: this model only works with kitti format images. For more detail, please go to kitti official website:
+
+http://www.cvlibs.net/datasets/kitti/
+
 **Visualization: HeapMap /2D object detection / 3D object detection / BirdView graph**
 
 
