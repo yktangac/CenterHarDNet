@@ -1,7 +1,7 @@
 # Installation
 working envrionment:
 ```bash
-Os: Ubuntu20.04 (Windows10 not yet tested)
+Os: Ubuntu20.04 (Windows10 not yet tested | please downgrade your GCC version for cuda10.2 installation)
 Cuda: 10.2
 pytorch: 1.2.0 (we can't use the original pytorch version 0.4.0)
 conda envrionment(recommended)
