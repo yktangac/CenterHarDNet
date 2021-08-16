@@ -26,6 +26,8 @@ To run the demo, we provide our pre-trained model. Download it.
 https://drive.google.com/file/d/1yhvlUOhnU4LICx2AJeJDPxV54DjkBd5e/view?usp=sharing
 
 # Quick Demo:
+we provide raw data video to test it. please down the video with the following link.
+https://drive.google.com/drive/folders/1GAfegX0IiscuW5uVByVWRnRVHHg64utt?usp=sharing
 ```bash
 cd $WORKPLACE_ROOT/src
 python demo.py ddd --demo /path/to/image/or/folder/or/video --load_model /path/you/save/to/hardnetddd.pth --arch hardnet_68 --debug 2
